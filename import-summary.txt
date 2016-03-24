@@ -1,0 +1,315 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\Contacts.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* Android.mk
+* CleanSpec.mk
+* MODULE_LICENSE_APACHE2
+* NOTICE
+* bird\
+* bird\res\
+* bird\res\drawable-nodpi\
+* bird\res\drawable-nodpi\bird_fto_group_list_item_arrow.png
+* bird\res\drawable-nodpi\bird_fto_ic_search.png
+* bird\res\drawable-nodpi\bird_fto_list_section_divider_holo_custom.9.png
+* bird\res\layout\
+* bird\res\layout\bird_contacts_status.xml
+* bird\res\layout\bird_contacts_status_item.xml
+* bird\res\layout\bird_fto_group_account_header_horizontal.xml
+* bird\res\layout\bird_fto_group_browse_list_account_header.xml
+* bird\res\layout\bird_fto_group_browse_list_fragment.xml
+* bird\res\layout\bird_fto_group_browse_list_item.xml
+* bird\res\layout\bird_fto_group_fragment_header.xml
+* bird\res\layout\bird_fto_user_profile_header.xml
+* bird\res\layout\bird_star_contact_browser_activity.xml
+* bird\res\values-ru\
+* bird\res\values-ru\strings.xml
+* bird\res\values-uk\
+* bird\res\values-uk\strings.xml
+* bird\res\values-vi\
+* bird\res\values-vi\strings.xml
+* bird\res\values-zh-rCN\
+* bird\res\values-zh-rCN\strings.xml
+* bird\res\values-zh-rTW\
+* bird\res\values-zh-rTW\strings.xml
+* bird\res\values\
+* bird\res\values\attrs.xml
+* bird\res\values\strings.xml
+* bird\src\
+* bird\src\com\
+* bird\src\com\nbbsw\
+* bird\src\com\nbbsw\contacts\
+* bird\src\com\nbbsw\contacts\BirdContactsStatusActivity.java
+* bird\src\com\nbbsw\contacts\BirdFeature.java
+* bird\src\com\nbbsw\contacts\BirdSimStatus.java
+* bird\src\com\nbbsw\contacts\StarContactBrowseActivity.java
+* fto_Manifest\
+* fto_Manifest\AndroidManifest.xml
+* proguard.flags
+* res_ext\
+* res_ext\anim\
+* res_ext\anim\vcs_row_anim.xml
+* res_ext\drawable-hdpi\
+* res_ext\drawable-hdpi\ic_voice_search.png
+* res_ext\drawable-hdpi\ic_voice_search_holo_dark.png
+* res_ext\drawable-hdpi\ic_voice_search_holo_light.png
+* res_ext\drawable-hdpi\ic_voice_search_light.png
+* res_ext\drawable-hdpi\ic_voice_search_off.png
+* res_ext\drawable-hdpi\mtk_ic_association.png
+* res_ext\drawable-hdpi\mtk_ic_contact_account_usim_minitab.png
+* res_ext\drawable-hdpi\mtk_ic_contact_detail_call_ip.png
+* res_ext\drawable-hdpi\mtk_ic_hotknot_light.png
+* res_ext\drawable-hdpi\mtk_ic_launcher_contacts.png
+* res_ext\drawable-hdpi\mtk_ic_launcher_smsmms.png
+* res_ext\drawable-hdpi\mtk_ic_menu_cancel_holo_dark.png
+* res_ext\drawable-hdpi\mtk_ic_menu_copy_holo_dark.png
+* res_ext\drawable-hdpi\mtk_ic_menu_mark.png
+* res_ext\drawable-hdpi\mtk_ic_menu_print.png
+* res_ext\drawable-hdpi\mtk_ic_menu_share_holo_light.png
+* res_ext\drawable-hdpi\mtk_ic_menu_trash_holo_light.png
+* res_ext\drawable-hdpi\mtk_ic_video_call.png
+* res_ext\drawable-hdpi\vcs_contact_no_find.png
+* res_ext\drawable-ldrtl-mdpi\
+* res_ext\drawable-ldrtl-mdpi\ic_voice_search_light.png
+* res_ext\drawable-mdpi\
+* res_ext\drawable-mdpi\ic_voice_search.png
+* res_ext\drawable-mdpi\ic_voice_search_holo_dark.png
+* res_ext\drawable-mdpi\ic_voice_search_holo_light.png
+* res_ext\drawable-mdpi\ic_voice_search_light.png
+* res_ext\drawable-mdpi\ic_voice_search_off.png
+* res_ext\drawable-mdpi\mtk_ic_association.png
+* res_ext\drawable-mdpi\mtk_ic_contact_account_usim_minitab.png
+* res_ext\drawable-mdpi\mtk_ic_contact_detail_call_ip.png
+* res_ext\drawable-mdpi\mtk_ic_hotknot_light.png
+* res_ext\drawable-mdpi\mtk_ic_launcher_contacts.png
+* res_ext\drawable-mdpi\mtk_ic_launcher_smsmms.png
+* res_ext\drawable-mdpi\mtk_ic_menu_cancel_holo_dark.png
+* res_ext\drawable-mdpi\mtk_ic_menu_copy_holo_dark.png
+* res_ext\drawable-mdpi\mtk_ic_menu_mark.png
+* res_ext\drawable-mdpi\mtk_ic_menu_print.png
+* res_ext\drawable-mdpi\mtk_ic_menu_share_holo_light.png
+* res_ext\drawable-mdpi\mtk_ic_menu_trash_holo_light.png
+* res_ext\drawable-mdpi\mtk_ic_video_call.png
+* res_ext\drawable-mdpi\vcs_contact_no_find.png
+* res_ext\drawable-xhdpi\
+* res_ext\drawable-xhdpi\ic_voice_search.png
+* res_ext\drawable-xhdpi\ic_voice_search_holo_dark.png
+* res_ext\drawable-xhdpi\ic_voice_search_holo_light.png
+* res_ext\drawable-xhdpi\ic_voice_search_light.png
+* res_ext\drawable-xhdpi\ic_voice_search_off.png
+* res_ext\drawable-xhdpi\mtk_ic_contact_detail_call_ip.png
+* res_ext\drawable-xhdpi\mtk_ic_hotknot_light.png
+* res_ext\drawable-xhdpi\mtk_ic_menu_cancel_holo_dark.png
+* res_ext\drawable-xhdpi\mtk_ic_menu_mark.png
+* res_ext\drawable-xhdpi\mtk_ic_menu_share_holo_light.png
+* res_ext\drawable-xhdpi\mtk_ic_menu_trash_holo_light.png
+* res_ext\drawable-xhdpi\vcs_contact_no_find.png
+* res_ext\drawable-xxhdpi\
+* res_ext\drawable-xxhdpi\ic_voice_search.png
+* res_ext\drawable-xxhdpi\ic_voice_search_holo_dark.png
+* res_ext\drawable-xxhdpi\ic_voice_search_holo_light.png
+* res_ext\drawable-xxhdpi\ic_voice_search_light.png
+* res_ext\drawable-xxhdpi\ic_voice_search_off.png
+* res_ext\drawable-xxhdpi\mtk_ic_hotknot_light.png
+* res_ext\drawable-xxhdpi\mtk_ic_launcher_contacts.png
+* res_ext\drawable-xxhdpi\mtk_ic_launcher_smsmms.png
+* res_ext\drawable-xxhdpi\mtk_ic_menu_cancel_holo_dark.png
+* res_ext\drawable-xxhdpi\mtk_ic_menu_share_holo_light.png
+* res_ext\drawable-xxhdpi\mtk_ic_menu_trash_holo_light.png
+* res_ext\drawable-xxhdpi\mtk_ic_video_call.png
+* res_ext\drawable-xxhdpi\vcs_contact_no_find.png
+* res_ext\drawable-xxxhdpi\
+* res_ext\drawable-xxxhdpi\account_spinner_icon.png
+* res_ext\drawable-xxxhdpi\btn_star_off_normal_holo_light.png
+* res_ext\drawable-xxxhdpi\btn_star_on_normal_holo_light.png
+* res_ext\drawable-xxxhdpi\ic_add_contact_holo_light.png
+* res_ext\drawable-xxxhdpi\ic_add_group_holo_dark.png
+* res_ext\drawable-xxxhdpi\ic_contacts_holo_dark.png
+* res_ext\drawable-xxxhdpi\ic_menu_compose_holo_dark.png
+* res_ext\drawable-xxxhdpi\ic_menu_compose_holo_light.png
+* res_ext\drawable-xxxhdpi\ic_menu_done_holo_dark.png
+* res_ext\drawable-xxxhdpi\ic_menu_expander_maximized_holo_light.png
+* res_ext\drawable-xxxhdpi\ic_menu_expander_minimized_holo_light.png
+* res_ext\drawable-xxxhdpi\ic_voice_search.png
+* res_ext\drawable-xxxhdpi\ic_voice_search_holo_dark.png
+* res_ext\drawable-xxxhdpi\ic_voice_search_holo_light.png
+* res_ext\drawable-xxxhdpi\ic_voice_search_light.png
+* res_ext\drawable-xxxhdpi\ic_voice_search_off.png
+* res_ext\drawable-xxxhdpi\mtk_ic_launcher_contacts.png
+* res_ext\drawable-xxxhdpi\mtk_ic_launcher_smsmms.png
+* res_ext\drawable-xxxhdpi\mtk_ic_menu_cancel_holo_dark.png
+* res_ext\drawable-xxxhdpi\mtk_ic_menu_share_holo_light.png
+* res_ext\drawable-xxxhdpi\mtk_ic_menu_trash_holo_light.png
+* res_ext\drawable-xxxhdpi\vcs_contact_no_find.png
+* res_ext\drawable\
+* res_ext\drawable\vcs_indicator_animation.xml
+* res_ext\drawable\vcs_rows.xml
+* res_ext\layout\
+* res_ext\layout\mtk_contact_detail_group_list_dialog.xml
+* res_ext\layout\mtk_editor_custom_action_bar_ext.xml
+* res_ext\layout\mtk_group_browse_activity.xml
+* res_ext\layout\mtk_group_browse_list_item_with_checkbox.xml
+* res_ext\layout\mtk_multichoice_contact_list.xml
+* res_ext\layout\mtk_multichoice_custom_action_bar.xml
+* res_ext\layout\mtk_quickcontact_list_fragment_ext.xml
+* res_ext\layout\vcs_dialog.xml
+* res_ext\layout\vcs_list_item.xml
+* res_ext\layout\vcs_peoplerow.xml
+* res_ext\menu\
+* res_ext\menu\mtk_edit_contact_ext.xml
+* res_ext\menu\mtk_group_browse_options.xml
+* res_ext\menu\mtk_list_multichoice.xml
+* res_ext\menu\mtk_selection.xml
+* res_ext\menu\mtk_view_contact_with_print.xml
+* res_ext\values-ar\
+* res_ext\values-ar\strings.xml
+* res_ext\values-bg\
+* res_ext\values-bg\strings.xml
+* res_ext\values-bn\
+* res_ext\values-bn\strings.xml
+* res_ext\values-ca\
+* res_ext\values-ca\strings.xml
+* res_ext\values-cs\
+* res_ext\values-cs\strings.xml
+* res_ext\values-da\
+* res_ext\values-da\strings.xml
+* res_ext\values-de-rAT\
+* res_ext\values-de-rAT\strings.xml
+* res_ext\values-de\
+* res_ext\values-de\strings.xml
+* res_ext\values-el\
+* res_ext\values-el\strings.xml
+* res_ext\values-en-rGB\
+* res_ext\values-en-rGB\strings.xml
+* res_ext\values-en-rUS\
+* res_ext\values-en-rUS\strings.xml
+* res_ext\values-es-rUS\
+* res_ext\values-es-rUS\strings.xml
+* res_ext\values-es\
+* res_ext\values-es\strings.xml
+* res_ext\values-et-rEE\
+* res_ext\values-et-rEE\strings.xml
+* res_ext\values-fa\
+* res_ext\values-fa\strings.xml
+* res_ext\values-fi\
+* res_ext\values-fi\strings.xml
+* res_ext\values-fr\
+* res_ext\values-fr\strings.xml
+* res_ext\values-hi\
+* res_ext\values-hi\strings.xml
+* res_ext\values-hr\
+* res_ext\values-hr\strings.xml
+* res_ext\values-hu\
+* res_ext\values-hu\strings.xml
+* res_ext\values-hy-rAM\
+* res_ext\values-hy-rAM\strings.xml
+* res_ext\values-in\
+* res_ext\values-in\strings.xml
+* res_ext\values-it\
+* res_ext\values-it\strings.xml
+* res_ext\values-iw\
+* res_ext\values-iw\strings.xml
+* res_ext\values-ja\
+* res_ext\values-ja\strings.xml
+* res_ext\values-kk\
+* res_ext\values-kk\strings.xml
+* res_ext\values-km-rKH\
+* res_ext\values-km-rKH\strings.xml
+* res_ext\values-ko\
+* res_ext\values-ko\strings.xml
+* res_ext\values-lt\
+* res_ext\values-lt\strings.xml
+* res_ext\values-lv\
+* res_ext\values-lv\strings.xml
+* res_ext\values-ms\
+* res_ext\values-ms\strings.xml
+* res_ext\values-my-rMM\
+* res_ext\values-my-rMM\strings.xml
+* res_ext\values-my-rZG\
+* res_ext\values-my-rZG\strings.xml
+* res_ext\values-nb\
+* res_ext\values-nb\strings.xml
+* res_ext\values-nl\
+* res_ext\values-nl\strings.xml
+* res_ext\values-pl\
+* res_ext\values-pl\strings.xml
+* res_ext\values-pt-rPT\
+* res_ext\values-pt-rPT\strings.xml
+* res_ext\values-pt\
+* res_ext\values-pt\strings.xml
+* res_ext\values-ro\
+* res_ext\values-ro\strings.xml
+* res_ext\values-ru\
+* res_ext\values-ru\strings.xml
+* res_ext\values-sk\
+* res_ext\values-sk\strings.xml
+* res_ext\values-sl\
+* res_ext\values-sl\strings.xml
+* res_ext\values-sr\
+* res_ext\values-sr\strings.xml
+* res_ext\values-sv\
+* res_ext\values-sv\strings.xml
+* res_ext\values-th\
+* res_ext\values-th\strings.xml
+* res_ext\values-tl\
+* res_ext\values-tl\strings.xml
+* res_ext\values-tr\
+* res_ext\values-tr\strings.xml
+* res_ext\values-uk\
+* res_ext\values-uk\strings.xml
+* res_ext\values-ur-rPK\
+* res_ext\values-ur-rPK\strings.xml
+* res_ext\values-ur\
+* res_ext\values-ur\strings.xml
+* res_ext\values-vi\
+* res_ext\values-vi\strings.xml
+* res_ext\values-zh-rCN\
+* res_ext\values-zh-rCN\strings.xml
+* res_ext\values-zh-rHK\
+* res_ext\values-zh-rHK\donottranslate_config.xml
+* res_ext\values-zh-rHK\strings.xml
+* res_ext\values-zh-rTW\
+* res_ext\values-zh-rTW\strings.xml
+* res_ext\values\
+* res_ext\values\strings.xml
+* script\
+* script\test.sh
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
